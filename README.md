@@ -1,4 +1,4 @@
-##Hello, this is FileRock Client
+## Hello, this is FileRock Client
 
 This is the client of <a href="https://www.filerock.com/">FileRock</a>,
 a backup and synchronization service that provides confidentiality and
@@ -45,7 +45,7 @@ along with FileRock Client. If not, see <http://www.gnu.org/licenses/>.
 
 --
 
-###<a name="howtorun">How to run FileRock Client</a>
+### <a name="howtorun">How to run FileRock Client</a>
 
 In order to run FileRock client from the source code, follow these instructions:
 
@@ -63,7 +63,7 @@ We will do our best to keep the code in this repository and the packaged version
 
 --
 
-###<a name="dependencies">Required dependencies</a>
+### <a name="dependencies">Required dependencies</a>
 
 + Reference **python version** is 2.7.2
 
